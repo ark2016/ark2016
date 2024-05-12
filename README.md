@@ -2,6 +2,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, 🇷🇺</h3>
 
+- 🔭 I’m currently working on NLP project
+
+- 🌱 I’m currently learning ML
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ark2016&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ark2016&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ark2016&theme=solarized_dark)
